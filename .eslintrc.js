@@ -30,5 +30,8 @@ module.exports = {
     // 'max-len': '200',
     'react/function-component-definition': 'off',
     'global-require': 'off',
+    // 'no-confusing-arrow': 'off',
+    'react/jsx-curly-brace-presence': 'off',
+
   },
 };
