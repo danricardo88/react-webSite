@@ -32,6 +32,7 @@ module.exports = {
     'global-require': 'off',
     // 'no-confusing-arrow': 'off',
     'react/jsx-curly-brace-presence': 'off',
+    'jsx-a11y/img-redundant-alt': 'off',
 
   },
 };

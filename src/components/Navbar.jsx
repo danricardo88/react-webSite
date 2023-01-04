@@ -12,7 +12,11 @@ const Navbar = () => {
   return (
     <nav>
       <div className="container nav__container">
-        <Link to="/" className="logo">
+        <Link
+          to="/"
+          className="logo"
+          onClick={() => setIsNavShowing(false)}
+        >
           <img src={Logo} alt="Nav Logo" />
         </Link>
         <ul className={`nav__links ${isNavShowing ? 'show__nav' : 'hide__Nav'}`}>
@@ -23,6 +27,7 @@ const Navbar = () => {
                   <NavLink
                     to={path}
                     className={({ isActive }) => (isActive ? 'active-nav' : '')}
+                    onClick={() => setIsNavShowing((prev) => !prev)}
                   >
                     { name }
                   </NavLink>
@@ -34,7 +39,7 @@ const Navbar = () => {
         <button
           className="nav__toggle-btn"
           type="button"
-          onClick={() => setIsNavShowing(!isNavShowing)}
+          onClick={() => setIsNavShowing((prev) => !prev)}
         >
           {
             isNavShowing ? <MdOutlineClose /> : <GoThreeBars />
