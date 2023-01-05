@@ -1,71 +1,21 @@
-# Getting Started with Create React App
+Technologies and techniques applied in the development of this application:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React 18: We used version 18 of React to create reusable components and ensure a high-performance and interactive user interface.
+React Router 6: We used React Router to manage the routing of the application and allow users to easily navigate between different pages.
+React Icons: We used React Icons to add professional-quality icons to our application.
+Hooks: We used React Hooks to manage the state of the application in a simpler and more efficient way.
+Component reuse: We developed reusable components to maximize code efficiency and reduce project complexity.
+CSS transitions and animations: We used CSS transitions and animations to make the application more pleasant and intuitive for the user.
+CSS Variables: We used CSS variables to make the code more readable and easy to maintain.
 
-## Available Scripts
 
-In the project directory, you can run:
+Pt-BR
+Tecnologias e técnicas utilizadas no desenvolvimento desta aplicação:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-webSite
+React 18: Utilizamos a versão 18 do React para criar componentes reutilizáveis e garantir uma interface de usuário interativa e de alta performance.
+React Router 6: Utilizamos o React Router para gerenciar o roteamento da aplicação e permitir que os usuários naveguem facilmente entre as diferentes páginas.
+React Icons: Utilizamos o React Icons para adicionar ícones de qualidade profissional à nossa aplicação.
+Hooks: Utilizamos os Hooks do React para gerenciar o estado da aplicação de maneira mais simples e eficiente.
+Reutilização de componentes: Desenvolvemos componentes reutilizáveis para maximizar a eficiência do código e diminuir a complexidade do projeto.
+Transições e animações de CSS: Utilizamos transições e animações de CSS para tornar a aplicação mais agradável e intuitiva para o usuário.
+CSS Variáveis: Utilizamos variáveis de CSS para tornar o código mais legível e fácil de manter.
